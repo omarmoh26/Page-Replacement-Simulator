@@ -24,7 +24,7 @@ int Length_of_string;
 int FrameSize;
 int checkerArr[constSize];
 int myPages[constSize];
-
+ 
 void FIFO(void)
 {
 	queue<int> myQueue;
